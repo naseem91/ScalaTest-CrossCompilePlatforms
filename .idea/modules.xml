@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bar-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/bar-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/barJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/barJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barNative.iml" filepath="$PROJECT_DIR$/.idea/modules/barNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barNative-build.iml" filepath="$PROJECT_DIR$/.idea/modules/barNative-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatestexmple-2modules.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatestexmple-2modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalatestexmple-2modules-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalatestexmple-2modules-build.iml" />
+    </modules>
+  </component>
+</project>

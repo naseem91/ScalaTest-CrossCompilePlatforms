@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mStarting process '/home/naseem/Documents/SFreely NEW/ScalatestExmple-2Modules/bar/native/target/scala-2.11/bar-out' on port '35159'.[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestNative:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalue of txt [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be Peter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestNative2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalue of h [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be 5[0m[0m

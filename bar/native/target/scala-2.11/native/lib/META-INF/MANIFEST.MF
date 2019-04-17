@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Scala Native nativelib
+Implementation-Version: 0.3.8
+Specification-Vendor: org.scala-native
+Specification-Title: Scala Native nativelib
+Implementation-Vendor-Id: org.scala-native
+Specification-Version: 0.3.8
+Implementation-URL: http://www.scala-native.org
+Implementation-Vendor: org.scala-native
+

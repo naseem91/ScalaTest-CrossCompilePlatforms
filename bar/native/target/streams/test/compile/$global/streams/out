@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m/home/naseem/Documents/SFreely NEW/ScalatestExmple-2Modules/bar/native/src/test/scala/tests/TestNative.scala:6:40: Symbol 'type <none>.flatspec.AnyFlatSpecLike' is missing from the classpath.[0m
+[0m[[0m[31merror[0m] [0m[0mThis symbol is required by 'type org.scalatest.FlatSpecLike'.[0m
+[0m[[0m[31merror[0m] [0m[0mMake sure that type AnyFlatSpecLike is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.[0m
+[0m[[0m[31merror[0m] [0m[0mA full rebuild may help if 'package.class' was compiled against an incompatible version of <none>.flatspec.[0m
+[0m[[0m[31merror[0m] [0m[0mclass TestNative extends FlatSpec with Matchers{[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/naseem/Documents/SFreely NEW/ScalatestExmple-2Modules/bar/native/src/test/scala/tests/TestNative.scala:6:26: illegal inheritance;[0m
+[0m[[0m[31merror[0m] [0m[0m self-type tests.TestNative does not conform to org.scalatest.FlatSpec's selftype org.scalatest.FlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0mclass TestNative extends FlatSpec with Matchers{[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/naseem/Documents/SFreely NEW/ScalatestExmple-2Modules/bar/native/src/test/scala/tests/TestNative.scala:8:19: could not find implicit value for parameter svsi: org.scalatest.words.StringVerbStringInvocation[0m
+[0m[[0m[31merror[0m] [0m[0m  "value of txt " should " be Peter " in { assert(NativeMain.txt == "Peter") }[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
